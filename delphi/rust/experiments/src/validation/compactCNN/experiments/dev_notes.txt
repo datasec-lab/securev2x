@@ -1,0 +1,4 @@
+The model used to generate the predictions in "plaintext.npy" was 
+    "/python/pretrained_model_weights/pretrained_numpy_models/compactCNN_seed0_relu.npy"
+The corresponding delphi numpy model for this model should be contained in
+    "/python/pretrained_model_weights/modified_numpy_models/model_subj_9.npy"

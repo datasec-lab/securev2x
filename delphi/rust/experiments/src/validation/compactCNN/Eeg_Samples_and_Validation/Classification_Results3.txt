@@ -1,0 +1,19 @@
+'''
+Note: this is a test file
+- we tested whether or not using standard weight extraction would 
+work or not here. 
+- it did not work. Everything is biasing towards 0, instead of 
+providing the correct results
+'''
+101 0 0
+102 0 0
+103 0 0
+104 0 0
+105 0 0
+106 0 0
+157 1 0
+158 1 0
+159 1 0
+160 1 0
+161 1 0
+162 1 0

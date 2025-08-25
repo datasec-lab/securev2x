@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./rust/neural-network/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}

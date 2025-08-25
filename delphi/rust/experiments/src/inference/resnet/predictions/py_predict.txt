@@ -1,0 +1,10 @@
+Sample = 0 | Prediction = 0 | Class = 87
+Sample = 1 | Prediction = 0 | Class = 52
+Sample = 2 | Prediction = 0 | Class = 14
+Sample = 3 | Prediction = 0 | Class = 10
+Sample = 4 | Prediction = 0 | Class = 47
+Sample = 5 | Prediction = 0 | Class = 29
+Sample = 6 | Prediction = 0 | Class = 57
+Sample = 7 | Prediction = 0 | Class = 36
+Sample = 8 | Prediction = 0 | Class = 76
+Sample = 9 | Prediction = 0 | Class = 63

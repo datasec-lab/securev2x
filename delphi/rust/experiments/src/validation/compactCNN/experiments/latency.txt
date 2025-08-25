@@ -1,0 +1,14 @@
+Avg Client Latency = 0.056197914556962006 s
+	max latency = 0.084871 s
+	min latency = 0.053122 s
+Avg Server Latency = 0.0561183924050633 s
+	max latency = 0.0847 s
+	min latency = 0.052971 s
+Avg Client Preprocessing = 90.03925316455701 s
+	max preproc = 100.556 s
+	min preproc = 84.871 s
+Avg Server Preprocessing = 89.03126898734179 s
+	max preproc = 99.495 s
+	min preproc = 83.891 s
+Server Throughput - 89.0873873797468 s per process
+Client Throughput - 90.09545107911396 s per process
